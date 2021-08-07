@@ -47,3 +47,7 @@ git branch -M main
 
 推送到远程仓库
 git push -u origin main
+
+
+第一次拿别人的项目所有代码
+git clone git@github.com:wengjielong/git-text.git
