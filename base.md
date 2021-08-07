@@ -34,3 +34,6 @@ git reset --hard 12345
 8. git reflog 
 所有git 仓库 操作记录
 
+
+
+kk
