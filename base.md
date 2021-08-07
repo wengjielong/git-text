@@ -17,7 +17,7 @@ git commit -m "本次提交描述"
 
 4. 查看所有版本
 git log
-
+git log --pretty=oneline
 
 5. 查看仓库状态
 git status
