@@ -35,5 +35,15 @@ git reset --hard 12345
 所有git 仓库 操作记录
 
 
+<!-- 生成ssh-key -->
+ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
-kk
+
+关联远程仓库
+ git remote add origin git@github.com:wengjielong/git-text.git
+
+
+git branch -M main
+
+推送到远程仓库
+git push -u origin main
